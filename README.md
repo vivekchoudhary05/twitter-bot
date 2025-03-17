@@ -34,7 +34,9 @@ This Twitter bot automatically generates and posts tweets using Google's Gemini 
    tweepy
    schedule
    google-generativeai
-   tensorflow```
+   tensorflow
+   ```
+4. Make sure your twitter/X project have read and write access
 ## Usage
 Run the bot using:
 ```bash
