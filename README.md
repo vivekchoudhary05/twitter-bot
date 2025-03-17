@@ -28,7 +28,13 @@ This Twitter bot automatically generates and posts tweets using Google's Gemini 
    TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
    GEMINI_API_KEY=your_gemini_api_key
    ```
-
+3. Requirements
+   ```
+   dotenv
+   tweepy
+   schedule
+   google-generativeai
+   tensorflow```
 ## Usage
 Run the bot using:
 ```bash
